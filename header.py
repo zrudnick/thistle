@@ -1,0 +1,11 @@
+__author__ = "Zoe Rudnick"
+__contact__ = "zoe.rudnick@yahoo.com"
+__copyright__ = "Copyright 2024, Zoe Rudnick"
+__credits__ = ["Zoe Rudnick", "Kuan-Hao Chao", "Alan Mao"]
+__date__ = "2025/02/04"
+__deprecated__ = False
+__email__ =  "zoe.rudnick@yahoo.com"
+__license__ = "GPL-3.0"
+__maintainer__ = "developer"
+__status__ = "Zoe Rudnick"
+__version__ = "0.0.1"
