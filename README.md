@@ -1,1 +1,2 @@
-# Thistle: deep learning network for translation initiation site (TIS) identification 🌵🌸
+# Thistle 🌵🌸
+Deep learning network for translation initiation site (TIS) identification.
